@@ -106,5 +106,5 @@ Using the followings tools:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Makcientista" alt="Makiesse - Kiassungua" /> </p>
 
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
+⭐️ Based in [CallmeMehdi](https://github.com/CallmeMehdi)
 
