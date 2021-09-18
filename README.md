@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome</h1>
+<h1 align="center"><b> Hi there👋! Welcome to my GitHub!!!</b></h1> 
 <hr />
 <a href="https://github.com/Makcientista/Makcientista" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
@@ -33,7 +33,7 @@ Actually I live in Brazil/São Paulo<br/>
 <h2>**My personal interests:** </h2><br>
 
 
-- 👩‍💻 1ª Taking part in MULTICLOUD bootcamp, It is an immersive training program in the most relevant Cloud providers in the world: <b>Amazon Web Services (AWS)</b>, <b></b> <b>Microsoft Azure </b>,  <b>Google Cloud Platform (GCP)</b>,  <b>Oracle Cloud Infrastructure (OCI)</b>, in addition to modules, Bootcamp focuses on projects based on real-world scenarios in the technology market. There will also be +30 projects with individual and group challenges simulating teamwork. The course is taught by a high performance team in the Cloud market;
+- 👩‍💻 1ª Taking part in MULTICLOUD bootcamp at The Cloud Bootcamp, It is an immersive training program in the most relevant Cloud providers in the world: <b>Amazon Web Services (AWS)</b>, <b></b> <b>Microsoft Azure </b>,  <b>Google Cloud Platform (GCP)</b>,  <b>Oracle Cloud Infrastructure (OCI)</b>, in addition to modules, Bootcamp focuses on projects based on real-world scenarios in the technology market. There will also be +30 projects with individual and group challenges simulating teamwork. The course is taught by a high performance team in the Cloud market;
 <p align="left" >
 Using the followings tools:
 </p>
@@ -44,7 +44,7 @@ Using the followings tools:
   <li>Ansible</li>
 </ul>  
 </p>  
-- 👩‍💻 2ª Taking part in Master Java Developer (Java Full Stack Developer) bootcamp, developing systems. 
+- 👩‍💻 2ª Took part in Master Java Developer (Java Full Stack Developer) bootcamp at Softblue, developing systems, where I have learned in practice on the most modern technologies of web.
 <p align="left" >
 Using the followings tools:
 </p>
