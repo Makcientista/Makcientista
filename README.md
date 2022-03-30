@@ -18,7 +18,7 @@ I am <b> Makiesse António Kiassungua</b>.
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 <p align="left" >  -->
-Actually I live in Brazil/São Paulo<br/>
+Actually I living in Brazil/São Paulo<br/>
  I am graduated in Computer Science with MBA in Data Base Administration with focus on Oracle SGDB. Actually I have been improving my knowledge as <b>Full Stack Java EE Developer, MultiCloud (AWS, Azure, GCP, OCI)  and Python for Data Science</b>. <br> 
 </p>
 <a href="https://www.linkedin.com/in/makiesse-ant%C3%B3nio-kiassungua-itanalyst/" target="_blank">
