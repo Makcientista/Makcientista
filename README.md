@@ -27,7 +27,8 @@ Actually I living in Brazil/São Paulo<br/>
 
 <hr />
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631575390943.png" width="400px" />
+<!--<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631575390943.png" width="400px" /> -->
+
 
 
 <h2>**My personal interests:** </h2><br>
