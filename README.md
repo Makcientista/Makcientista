@@ -1,82 +1,28 @@
-<h1 align="center"><b> Hi there👋! Welcome to my GitHub!!!</b></h1> 
-<hr />
-<a href="https://github.com/Makcientista/Makcientista" target="_blank">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a><br />
-<p align="left" > 
-  <b>Hello Guys!</b> <br>
-<!--</p>
-<a href="https://www.instagram.com/strongreen/" target="_blank">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a><br />
+<br/>
+<br/>
+<h1 align="center"><b> Hi there👋! Welcome to my GitHub!!!</b></h1> <hr />
 
-<p align="left" >-->
+<p align="left"> 
+<b>Hello Guys!</b>
+<p align="left" >
 I am <b> Makiesse António Kiassungua</b>. 
-<!--
-</p>
-<a href="https://www.youtube.com/herikastrongreen/" target="_blank">
-  <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
-</a>
-<p align="left" >  -->
-Actually I living in Brazil/São Paulo<br/>
- I am graduated in Computer Science with MBA in Data Base Administration with focus on Oracle SGDB. Actually I have been improving my knowledge as <b>Full Stack Java EE Developer, MultiCloud (AWS, Azure, GCP, OCI)  and Python for Data Science</b>. <br> 
-</p>
-<a href="https://www.linkedin.com/in/makiesse-ant%C3%B3nio-kiassungua-itanalyst/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
-
-<hr />
-
-<!--<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631575390943.png" width="400px" /> -->
-
-
-
-<h2>**My personal interests:** </h2><br>
-
-
-- 👩‍💻 1ª Taking part in MULTICLOUD bootcamp at The Cloud Bootcamp, It is an immersive training program in the most relevant Cloud providers in the world: <b>Amazon Web Services (AWS)</b>, <b></b> <b>Microsoft Azure </b>,  <b>Google Cloud Platform (GCP)</b>,  <b>Oracle Cloud Infrastructure (OCI)</b>, in addition to modules, Bootcamp focuses on projects based on real-world scenarios in the technology market. There will also be +30 projects with individual and group challenges simulating teamwork. The course is taught by a high performance team in the Cloud market;
-<p align="left" >
-Using the followings tools:
-</p>
-<p align="left" >
-<ul>
-  <li>Kubernetes</li>
-  <li>Terraform</li>
-  <li>Ansible</li>
-</ul>  
-</p>  
-- 👩‍💻 2ª Took part in Master Java Developer (Java Full Stack Developer) bootcamp at Softblue, developing systems, where I have learned in practice on the most modern technologies of web.
-<p align="left" >
-Using the followings tools:
-</p>
-<p align="left" >
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-  <li>Spring boot</li>
-  <li>Spring Security</li>
-  <li>App hosting on AWS and Heroku</li>
-  <li>React Hooks</li>
-  <li>React & Bootstrap</li>
-</ul>  
-</p>  
-- 💼 I'm a technology buff, for this reason I'm always studying and evolving in my career;
-- 👾 My hobbies are:
-   - Study about Java EE and Data Science ;
-   - Watching documentary;
-   - Record content;
-   - Read books;
-   - Singing and playing the piano
-- 💬 Feel free to call me, I'll be very happy to help;
-- 📫 If you want you can send an email to <b><i>dociel01@gmail.com</i></b><br>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makcientista&layout=compact&theme=graywhite&title_color=268bd2" alt="Makiesse - Kiassungua" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Makcientista&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Makiesse - Kiassungua" />
+From Brazil / São Paulo<br/>
+ I am graduated in Computer Science with MBA in Data Base Administration with focus on Oracle SGDB. Actually I have been improving my knowledge as <b>Java Software Engineer, MultiCloud (AWS, Azure, GCP, OCI)  and Python for Data Science</b>. <br> 
 </p>
 
+<div align="center">
+  <a href="https://github.com/LipePLima">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=LipePLima&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makcientista&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
+  
+ ## Contato
+ <div> 
+    <a href="dociel01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+    <a href="https://api.whatsapp.com/send?phone=5511982009230" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
+    <a href="https://www.linkedin.com/in/makiesse-ant%C3%B3nio-kiassungua-itanalyst/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
 **Languages and tools:**
 
 <p align="left">
@@ -105,5 +51,5 @@ Using the followings tools:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Makcientista" alt="Makiesse - Kiassungua" /> </p>
 
-⭐️ Based in [CallmeMehdi](https://github.com/CallmeMehdi)
+
 
