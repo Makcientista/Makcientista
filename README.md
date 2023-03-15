@@ -11,7 +11,7 @@ From Brazil / São Paulo<br/>
 </p>
 
 <div align="center">
-  <a href="https://github.com/LipePLima">
+  <a href="https://github.com/Makcientista">
   <img height="180em" src="https://streak-stats.demolab.com/?user=Makcientista&theme=blue-green"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makcientista&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
