@@ -12,7 +12,7 @@ From Brazil / São Paulo<br/>
 
 <div align="center">
   <a href="https://github.com/LipePLima">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=LipePLima&theme=blue-green"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Makcientista&theme=blue-green"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makcientista&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
   
