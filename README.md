@@ -6,7 +6,7 @@
 <b>Hello Guys!</b>
 <p align="left" >
 I am <b> Makiesse António Kiassungua</b>. 
-From Brazil / São Paulo<br/>
+From New York / USA<br/>
  A dedicated and results-driven IT professional with a strong background in data engineering, cloud computing, and business innovation. With expertise in data architecture, ETL processes, and big data technologies. Actually I have been improving my knowledge as <b>Data Engineer Toold, MultiCloud (AWS, Azure, GCP)  and Python </b>. <br> 
 </p>
 <div align="center">
