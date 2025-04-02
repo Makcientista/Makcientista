@@ -7,9 +7,8 @@
 <p align="left" >
 I am <b> Makiesse António Kiassungua</b>. 
 From Brazil / São Paulo<br/>
- I am graduated in Computer Science with MBA in Data Base Administration with focus on Oracle SGDB. Actually I have been improving my knowledge as <b>Java Software Engineer, MultiCloud (AWS, Azure, GCP, OCI)  and Python for Data Science</b>. <br> 
+ A dedicated and results-driven IT professional with a strong background in data engineering, cloud computing, and business innovation. With expertise in data architecture, ETL processes, and big data technologies. Actually I have been improving my knowledge as <b>Data Engineer Toold, MultiCloud (AWS, Azure, GCP)  and Python </b>. <br> 
 </p>
-
 <div align="center">
   <a href="https://github.com/Makcientista">
   <img height="180em" src="https://streak-stats.demolab.com/?user=Makcientista&theme=blue-green"/>
