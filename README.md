@@ -7,7 +7,7 @@
 <p align="left" >
 I am <b> Makiesse António Kiassungua</b>. 
 From New York / USA<br/>
- A dedicated and results-driven IT professional with a strong background in data engineering, cloud computing, and business innovation. With expertise in data architecture, ETL processes, and big data technologies.  
+ Computer Science graduate, with 8+ years of Information Technology experience, I bring solid expertise in troubleshooting, infrastructure and systems administration. Skilled in SQL, data wrangling, and cloud-based tools like Databricks, Azure and AWS. At São Paulo City Hall, I  built dashboards that reduced analysis time by 90% and enabled data-driven decisions in budget management. Currently specializing in scalable Big Data solutions, including ETL, data integration, migration and medallion architecture in cloud environments. 
 </p>
 <div align="center">
   <a href="https://github.com/Makcientista">
