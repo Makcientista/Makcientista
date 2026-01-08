@@ -1,4 +1,4 @@
-<br/>
+q<br/>
 <br/>
 <h1 align="center"><b> Hi there👋! Welcome to my GitHub!!!</b></h1> <hr />
 
@@ -7,13 +7,8 @@
 <p align="left" >
 I am <b> Makiesse António Kiassungua</b>. 
 From New York / USA<br/>
- Computer Science graduate, with 8+ years of Information Technology experience, I bring solid expertise in troubleshooting, infrastructure and systems administration. Skilled in SQL, data wrangling, and cloud-based tools like Databricks, Azure and AWS. At São Paulo City Hall, I  built dashboards that reduced analysis time by 90% and enabled data-driven decisions in budget management. Currently specializing in scalable Big Data solutions, including ETL, data integration, migration and medallion architecture in cloud environments. 
+ Computer Science graduate, with 8+ years of Information Technology experience, I bring solid expertise in troubleshooting, infrastructure and systems administration. Skilled in SQL, data wrangling, and cloud-based tools like Databricks, Azure and AWS. Currently specializing in scalable Big Data solutions, including ETL, data integration, migration and medallion architecture in cloud environments. 
 </p>
-<div align="center">
-  <a href="https://github.com/Makcientista">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Makcientista&theme=blue-green"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makcientista&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
   
  ## Contato
  <div> 
