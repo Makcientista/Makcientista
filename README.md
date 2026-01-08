@@ -5,8 +5,8 @@
 <p align="left"> 
 <b>Hello Guys!</b>
 <p align="left" >
-I am <b> Makiesse António Kiassungua</b>. 
-From New York / USA<br/>
+I am <b> Makiesse António Kiassungua</b>,
+from New York / USA<br/>
  Computer Science graduate, with 8+ years of Information Technology experience, I bring solid expertise in troubleshooting, infrastructure and systems administration. Skilled in SQL, data wrangling, and cloud-based tools like Databricks, Azure and AWS. Currently specializing in scalable Big Data solutions, including ETL, data integration, migration and medallion architecture in cloud environments. 
 </p>
   
