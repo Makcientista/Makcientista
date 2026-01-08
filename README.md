@@ -3,9 +3,6 @@
 <h1 align="center"><b> Hi there👋! Welcome to my GitHub!!!</b></h1> <hr />
 <h3 align="center">Data and DeVops Engineer | AI Enthusiast </h3>
 <br/>
-<br/>
-
-
 
 <p align="left"> 
 <b>Hello Guys!</b>
